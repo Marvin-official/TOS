@@ -7,7 +7,7 @@ By using Marvin, a bot currently under devlopment for Discord, you agree to comp
 Marvin is a bot designed for general Discord users to assist with various functions and enhance the Discord experience. Marvin is available 24/7, subject to occasional maintenance or updates.
 
 3. Data Collection and Usage
-Marvin collects and stores all data shared by users, including but not limited to messages and user IDs. This data is solely used for development purposes to improve Marvin's functionality and user experience. No data collected by Marvin will be used for commercial purposes or shared with third parties.
+Marvin collects and stores all data shared by users, including but not limited to logs and user IDs. We don't store messages content. This data is solely used for development purposes to improve Marvin's functionality and user experience. No data collected by Marvin will be used for commercial purposes or shared with third parties.
 
 4. User Responsibilities
 While there are no specific rules or guidelines others than "Please don't break my server !" users must follow when interacting with Marvin, users are expected to adhere to Discord's Community Guidelines and Terms of Service.
